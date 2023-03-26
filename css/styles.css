@@ -3,3 +3,7 @@ body{
     color: green;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+
+ol{
+    color: blue;
+}
